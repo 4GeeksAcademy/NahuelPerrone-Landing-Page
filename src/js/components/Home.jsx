@@ -13,7 +13,7 @@ const Home = () => {
    <div className="d-flex justify-content-center">
 	  <Jumbotron/>
     </div>
-  <div className="row justify-content-center align-items-start my-3">
+  <div className="row justify-content-center align-items-start my-4">
     <div className="col-2">
       <Card/>
     </div>
