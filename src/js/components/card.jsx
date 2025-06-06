@@ -3,6 +3,7 @@ import foto from  "../../img/foto.jpg";
 
 let Card = () => {
     return (
+  
   <div className="card text-center" >
     <p > <img src={foto} className="card-img-top" />  </p>
     <h5 className="card-title">Card title</h5>

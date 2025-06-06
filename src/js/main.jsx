@@ -16,8 +16,11 @@ import Footer from './components/footer';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+   <div className="conteiner-expand-md">
     <Nav/>
     <Home/>
     <Footer/>
+    </div>
+    
   </React.StrictMode>,
 )

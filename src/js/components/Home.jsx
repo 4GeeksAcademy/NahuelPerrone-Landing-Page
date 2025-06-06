@@ -14,16 +14,16 @@ const Home = () => {
 	  <Jumbotron/>
     </div>
   <div className="row justify-content-center align-items-start my-4">
-    <div className="col-2">
+    <div className="col-lg-2 col-sm-7">
       <Card/>
     </div>
-    <div className="col-2">
+    <div className="col-lg-2 col-sm-7">
       <Card/>
     </div>
-	<div className="col-2">
+	<div className="col-lg-2 col-sm-7">
       <Card/>
     </div>
-    <div className="col-2">
+    <div className="col-lg-2 col-sm-7">
      <Card/>
     </div>
   </div>
